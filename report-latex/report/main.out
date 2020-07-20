@@ -1,0 +1,17 @@
+\BOOKMARK [0][-]{chapter.1}{Summary}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Preprocessing}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Loss\040and\040activation\040functions\040used}{}% 3
+\BOOKMARK [0][-]{chapter.4}{PCA\040and\040Feed-Forward\040Neural\040Networks}{}% 4
+\BOOKMARK [1][-]{section.4.1}{Greyscale\040and\040PCA}{chapter.4}% 5
+\BOOKMARK [1][-]{section.4.2}{Feed\040Forward\040Neural\040Network}{chapter.4}% 6
+\BOOKMARK [0][-]{chapter.5}{Convolutional\040Neural\040Networks}{}% 7
+\BOOKMARK [1][-]{section.5.1}{VGG:\040one\040block}{chapter.5}% 8
+\BOOKMARK [1][-]{section.5.2}{VGG:\040two\040blocks}{chapter.5}% 9
+\BOOKMARK [1][-]{section.5.3}{VGG:\040three\040blocks}{chapter.5}% 10
+\BOOKMARK [1][-]{section.5.4}{VGG:\040three\040blocks\040and\040Dropout}{chapter.5}% 11
+\BOOKMARK [1][-]{section.5.5}{VGG:\040three\040blocks\040with\040Dropout\040and\040Batch\040Normalization}{chapter.5}% 12
+\BOOKMARK [0][-]{chapter.6}{Examples\040of\040famous\040CNN\040architectures:\040LeNet\040and\040MobileNetV2}{}% 13
+\BOOKMARK [1][-]{section.6.1}{LeNet\040Architecture}{chapter.6}% 14
+\BOOKMARK [1][-]{section.6.2}{MobileNetV2\040Architecture}{chapter.6}% 15
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 16
+\BOOKMARK [0][-]{chapter.8}{Bibliography}{}% 17
